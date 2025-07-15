@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 499,
+    "description": "Soft cotton T-shirt with round neck and regular fit",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 1999,
+    "description": "Lightweight shoes with breathable mesh and cushioned sole",
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 3499,
+    "description": "Bluetooth earbuds with noise cancellation and 20-hour battery life",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "price": 5999,
+    "description": "Fitness smartwatch with heart rate monitor and GPS",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "name": "Women's Denim Jacket",
+    "category": "Apparel",
+    "price": 1299,
+    "description": "Classic blue denim jacket with button closure",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "name": "Men's Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 499,
+    "description": "Soft cotton T-shirt with round neck and regular fit",
+    "stock": 25,
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Men's Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 499,
+    "description": "Soft cotton T-shirt with round neck and regular fit",
+    "stock": 25,
+    "image": ""
+  }
+]
